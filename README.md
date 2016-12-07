@@ -10,14 +10,18 @@ Read the clues and find your way through a Makey-Makey connected map
 <li>decorative (but conductive) wire, such as beading wire</li>
 <li>a stretched canvas</li>
 <li>paint (I used acrylic)</li>
+<li>paper</li>
+<li>black tea (I used an orange pekoe teabag)</li>
 </ul>
 
 <h3>Step One - Puzzle Design</h3>
 <ol>
-<li>design symbols</li>
-<li>pick a six symbol answer</li>
-<li>design map (be careful to avoid getting too close to the edges of the map)</li>
-<li>paint/print puzzle</li>
+<li>Design symbols</li>
+<li>Pick a six symbol answer</li>
+<li>Design map (be careful to avoid getting too close to the edges of the map)</li>
+<li>Paint/print puzzle</li>
+<li>Create aged paper for the puzzle hints or story by rubbing a used teabag on some paper and tearing the edges.</li> 
+<li>Since mosts pens are water soluble I recommend writing the hints after the paper finishes drying</li>
 </ol>
 
 <h3>Step Two - The Wiring</h3>
