@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+<!--preload the audio-->
+<audio id="victory" src="victory.mp3" preload="auto"></audio>
+<audio id="success" src="success.mp3" preload="auto"></audio>
+<audio id="zelda" src="zelda.mp3" preload="auto"></audio>
+    
+<script>
+//log keypress into an array
+
+    
+//after the page is loaded
+window.onload = function(){
+    //listen to the keyboard for when keys are pressed, and run the enter password function
+    document.addEventListener('keydown', enterPassword);
+}
+
+//These are the two passwords one from the user and the answer
+var password = ["one", "two", "three", "four", "five", "six"];//this is the array the user  
+var endGoal = "W,A,S,D,F,G";//this is the answer to the puzzle
+    
+function enterPassword(e){//MANIPULATE THE ARRAY
+    var key = String.fromCodePoint(e.keyCode);//gets the letter
+    if(password[5]!= key){ //checks to make sure the player doesn't double hit the keys
+        password.shift();//removes the oldest entry
+        password.push(key);//adds the newest entry
+        //console.log(key);
+        checkWin();
+    }
+}
+
+
+function checkWin(){//CHECK THE EXSPECTED STRING AGAINTS THE ENTERED STRING
+    var pass = password.toString();//make the password a string as well
+    if (pass == endGoal){
+        console.log("you win!");
+        
+        //randomly select one of three victory sounds
+        var victory = document.getElementById('victory');
+        var success = document.getElementById('success');
+        var zelda = document.getElementById('zelda');
+        var sounds = [victory, success, zelda];
+        var rand = Math.floor(Math.random()*sounds.length);
+        sounds[rand].play();
+    }
+}
+
+</script>
+    
+</head>
+
+<body>
+
+<!--you can add whatever you want to the html page to match your puzzle here!-->
+
+</body>
+</html>
