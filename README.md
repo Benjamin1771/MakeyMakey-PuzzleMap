@@ -1,7 +1,8 @@
 # MakeyMakey-PuzzleMap
 Read the clues and find your way through a Makey-Makey connected map
 
-<p>The images in build images are numbered to match their respective tutorial step</p>
+<img src="build images/0 - 0 how it works.png" alt="how it works" width="800">
+<p>(The images in build images are numbered to match their respective tutorial step)</p>
 
 <h3>You Need:</h3>
 <ul>
@@ -16,8 +17,6 @@ Read the clues and find your way through a Makey-Makey connected map
 <li>black tea (I used an orange pekoe teabag)</li>
 </ul>
 
-<img src="build images/finished.jpg" alt="test" height="42" width="42">
-
 <h3>Step One - Puzzle Design</h3>
 <ol>
 <li>Design symbols</li>
@@ -27,6 +26,14 @@ Read the clues and find your way through a Makey-Makey connected map
 <li>Create aged paper for the puzzle hints or story by rubbing a used teabag on some paper and tearing the edges</li> 
 <li>Since mosts pens are water soluble I recommend writing the hints after the paper finishes drying</li>
 </ol>
+
+<img src="build images/1 - 1 2 3 design symbols.jpg" alt="design symbols" width="200">
+<img src="build images/1 - 4 paint canvas in progress.jpg" alt="in progress" width="200">
+<img src="build images/1 - 4 paint canvas.jpg" alt="paint setup" width="200">
+<img src="build images/1 - 4 paint canvas finished.jpg" alt="finished canvas" width="200">
+<img src="build images/1 - 5 aged paper.jpg" alt="aged paper" width="200">
+<img src="build images/1 - 6 write puzzle easy.jpg" alt="write puzzle" width="200">
+<img src="build images/1 - 6 write puzzle full.jpg" alt="write puzzle" width="200">
 
 <h3>Step Two - The Wiring</h3>
 <ol>
