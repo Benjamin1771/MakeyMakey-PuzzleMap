@@ -1,9 +1,16 @@
 # MakeyMakey-PuzzleMap
 Read the clues and find your way through a Makey-Makey connected map
+<img src="build images/cover photo.jpg" alt="finished w00t" width="800">
+
+<h3>How it Works</h3>
+
+<p>The project uses a computer, a browser page with some JavaScript, and a Makey Makey board in combination with beading wire, electrical wire, a physical painted canvas, paper and a desk easel. The beading wire on the front of the canvas connects to wires on the back to the Makey Makey board and then the computer. Holding the ground connected to the board the user then completes the circuit to enter input into the browser. The browser listens for the input and plays a victory sound if the player presses the keys in the correct order. The page is currently hosted at http://peatm.dev.fast.sheridanc.on.ca/techStudio/.</p>
+<p>Each symbol in the solution is attached to a different part of the Makey Makey board. They use the connections for the board for WASDFG. All of the other symbols are wired together and then to the Makey Makey board’s space entry part. The “mystical artifact” that the player must guide is attached to the ground.</p>
+<p>The JavaScript on the page takes every input from the map interface and stores them in an array. The array holds up to six values. Whenever a new value is added, it removes the oldest entry of the six and checks to see if the last entered six values matches the expected or correct entry. If this is the case the browser plays victory music.</p>
 
 <img src="build images/0 - 0 how it works.png" alt="how it works" width="800">
-<p>(The images in build images are numbered to match their respective tutorial step)</p>
 
+<h1>Tutorial</h1>
 <h3>You Need:</h3>
 <ul>
 <li>a computer with a browser, a USB port, and speakers</li>
@@ -55,7 +62,7 @@ Note: while you could normally solder the wires together, solder and acrylic pai
 <img src="build images/2 - 3 connect all dummies to space.jpg" alt="connect to space" width="200">
 <img src="build images/2 - 4 male to male wires.jpg" alt="male to male wires" width="200">
 <img src="build images/2 - 5 alligater clips labeled.jpg" alt="alligator clips" width="200">
-<img src="build images/2 - 5 use WASDFG.jpg" alt="WASDGG" width="200">
+<img src="build images/2 - 5 use the back.jpg" alt="WASDFG" width="200">
 <img src="build images/2 - 6 connect alligator cord to the ground.jpg" alt="connect alligator cord to the ground" width="200">
 <img src="build images/2 - 6 connect ground to object.jpg" alt="connect ground to object" width="200">
 
@@ -76,3 +83,4 @@ In my code the end goal is "W,A,S,D,F,G" and every time a new key is pressed on 
 </ol>
 <img src="build images/finished.jpg" alt="finished project" width="400">
 <img src="build images/finished back.jpg" alt="finished project" width="400">
+<img src="build images/play the game.jpg" alt="Let's Play!" width="802">
