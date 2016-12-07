@@ -50,6 +50,14 @@ Note: while you could normally solder the wires together, solder and acrylic pai
 <li>Use a last alligator clip and attach it to a ground on the Makey-Makey board and a conductive object that the user will hold while solving the puzzle.</li>
 <li>Plug in the Makey-Makey board to the computer via USB.</li>
 </ol>
+<img src="build images/2 - 1 add beading wire.jpg" alt="add beading wire" width="200">
+<img src="build images/2 - 2 connect all dummies.jpg" alt="connect all dummies" width="200">
+<img src="build images/2 - 3 connect all dummies to space.jpg" alt="connect to space" width="200">
+<img src="build images/2 - 4 male to male wires.jpg" alt="male to male wires" width="200">
+<img src="build images/2 - 5 alligater clips labeled.jpg" alt="alligator clips" width="200">
+<img src="build images/2 - 5 use WASDFG.jpg" alt="WASDGG" width="200">
+<img src="build images/2 - 6 connect alligator cord to the ground.jpg" alt="connect alligator cord to the ground" width="200">
+<img src="build images/2 - 6 connect ground to object.jpg" alt="connect ground to object" width="200">
 
 <h3>Step Three - The Browser (webpage)</h3>
 <ol>
@@ -66,3 +74,5 @@ In my code the end goal is "W,A,S,D,F,G" and every time a new key is pressed on 
 <li>I used a desk easel to display my puzzle</li>
 <li>While holding the ground to the Makey-Makey board in one hand, use the other hand to solve the puzzle.</li>
 </ol>
+<img src="build images/finished.jpg" alt="finished project" width="400">
+<img src="build images/finished back.jpg" alt="finished project" width="400">
