@@ -78,7 +78,7 @@ In my code the end goal is "W,A,S,D,F,G" and every time a new key is pressed on 
 <h3>Step Four – Solve the Puzzle</h3>
 <ol>
 <li>Load the html page onto a browser</li>
-<li>I used a desk easel to display my puzzle</li>
+<li>Display your puzzle! (I used a desk easel to display mine)</li>
 <li>While holding the ground to the Makey-Makey board in one hand, use the other hand to solve the puzzle.</li>
 </ol>
 <img src="build images/finished.jpg" alt="finished project" width="400">
