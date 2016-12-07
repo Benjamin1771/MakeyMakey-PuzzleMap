@@ -1,8 +1,8 @@
 # MakeyMakey-PuzzleMap
-Read the clues and find your way through a Makey-Makey connected map
+Read the clues and find your way through a Makey-Makey connected map!
 <img src="build images/cover photo.jpg" alt="finished w00t" width="800">
 
-<h3>How it Works</h3>
+<h1>How it Works</h1>
 
 <p>The project uses a computer, a browser page with some JavaScript, and a Makey Makey board in combination with beading wire, electrical wire, a physical painted canvas, paper and a desk easel. The beading wire on the front of the canvas connects to wires on the back to the Makey Makey board and then the computer. Holding the ground connected to the board the user then completes the circuit to enter input into the browser. The browser listens for the input and plays a victory sound if the player presses the keys in the correct order. The page is currently hosted at http://peatm.dev.fast.sheridanc.on.ca/techStudio/.</p>
 <p>Each symbol in the solution is attached to a different part of the Makey Makey board. They use the connections for the board for WASDFG. All of the other symbols are wired together and then to the Makey Makey board’s space entry part. The “mystical artifact” that the player must guide is attached to the ground.</p>
