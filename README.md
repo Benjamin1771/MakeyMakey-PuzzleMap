@@ -1,15 +1,16 @@
 # MakeyMakey-PuzzleMap
 Read the clues and find your way through a Makey-Makey connected map
 
-You Need:
-•	a computer with a browser, a USB port, and speakers
-•	a Makey Makey board
-•	electrical wire (insulated)
-•	alligator clips (I used 8)
-•	decorative (but conductive) wire, such as beading wire
-•	a stretched canvas
-•	paint (I used acrylic)
-
+You Need:<br>
+<ul>
+<li>a computer with a browser, a USB port, and speakers</li>
+<li>a Makey Makey board</li>
+<li>electrical wire (insulated)</li>
+<li>alligator clips (I used 8)</li>
+<li>decorative (but conductive) wire, such as beading wire</li>
+<li>a stretched canvas</li>
+<li>paint (I used acrylic)</li>
+</ul>
 
 Step One - Puzzle Design
 a)	design symbols
