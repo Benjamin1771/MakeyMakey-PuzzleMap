@@ -1,6 +1,8 @@
 # MakeyMakey-PuzzleMap
 Read the clues and find your way through a Makey-Makey connected map
 
+<p>The images in build images are numbered to match their respective tutorial step</p>
+
 <h3>You Need:</h3>
 <ul>
 <li>a computer with a browser, a USB port, and speakers</li>
@@ -13,6 +15,8 @@ Read the clues and find your way through a Makey-Makey connected map
 <li>paper</li>
 <li>black tea (I used an orange pekoe teabag)</li>
 </ul>
+
+<img src="build images/finished.jpg" alt="test" height="42" width="42">
 
 <h3>Step One - Puzzle Design</h3>
 <ol>
@@ -52,5 +56,6 @@ In my code the end goal is "W,A,S,D,F,G" and every time a new key is pressed on 
 <h3>Step Four – Solve the Puzzle</h3>
 <ol>
 <li>Load the html page onto a browser</li>
+<li>I used a desk easel to display my puzzle</li>
 <li>While holding the ground to the Makey-Makey board in one hand, use the other hand to solve the puzzle.</li>
 </ol>
